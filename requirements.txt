@@ -1,4 +1,4 @@
-pycalphad==0.10.2
-espei==0.8.8
+pycalphad==0.10.4
+espei==0.8.10
 scheil==0.1.6
 kawin==0.2.0
