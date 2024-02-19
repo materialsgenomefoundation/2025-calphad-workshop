@@ -1,1 +1,1 @@
-# 2023-workshop-material
+# 2024-wams-workshop

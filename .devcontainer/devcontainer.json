@@ -1,4 +1,17 @@
 {
-	"image": "mcr.microsoft.com/devcontainers/python:1-3.11-bullseye",
-	"postCreateCommand": "pip3 install --user -r requirements.txt",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "waitFor": "onCreateCommand",
+  "updateContentCommand": "python3 -m pip install -r requirements.txt",
+  "postCreateCommand": "",
+  "customizations": {
+    "codespaces": {
+      "openFiles": []
+    },
+    "vscode": {
+      "extensions": [
+        "ms-toolsai.jupyter",
+        "ms-python.python"
+      ]
+    }
+  }
 }
