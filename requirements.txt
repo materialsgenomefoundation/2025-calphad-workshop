@@ -1,4 +1,4 @@
 pycalphad==0.10.4.post1
 espei==0.8.10
 scheil==0.1.6
-kawin==0.2.0
+kawin==0.3.0
