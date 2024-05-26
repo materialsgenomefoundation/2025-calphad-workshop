@@ -1,1 +1,1 @@
-# 2024-wams-workshop
+# 2024-calphad-workshop
